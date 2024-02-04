@@ -11,12 +11,8 @@
             "id": "61ff62c0ff9bf986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try New Commit.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try New Commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try New Commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Try New Commit.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,46 @@
   },
   "active": "61ff62c0ff9bf986",
   "lastOpenFiles": [
+    "scto_obsidian-master/2️⃣ Collections/Concepts/Law of Requisite Variety.md",
+    "scto_obsidian-master/📆 Calendar/24 Dec 2022.md",
+    "scto_obsidian-master/__Templates/Source Note.md",
+    "scto_obsidian-master/__Templates/Outline Note.md",
+    "scto_obsidian-master/__Templates/Calendar Entry.md",
+    "scto_obsidian-master/__Papers/Pianka 1966.pdf",
+    "scto_obsidian-master/__Papers/Connell 1964.pdf",
+    "scto_obsidian-master/__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
+    "scto_obsidian-master/__Media/Pasted image 20221214131115.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214124807.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214125814.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214123958.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214122340.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214122025.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214122006.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214121823.png",
+    "scto_obsidian-master/__Media/Pasted image 20221214121635.png",
+    "scto_obsidian-master/4️⃣ Outlines/What defines Biodiversity.md",
+    "scto_obsidian-master/3️⃣ Thoughts/Biodiversity Mechanisms.md",
+    "scto_obsidian-master/2️⃣ Collections/Diversity.md",
+    "scto_obsidian-master/2️⃣ Collections/Concepts",
+    "scto_obsidian-master/1️⃣ Primary Sources/Shabanov 2022b.md",
+    "scto_obsidian-master/1️⃣ Primary Sources/Pianka 1966.md",
+    "scto_obsidian-master/1️⃣ Primary Sources/Shabanov 2022a.md",
+    "scto_obsidian-master/1️⃣ Primary Sources/Connell 1964.md",
+    "scto_obsidian-master/🗓️ Calendar Home.md",
+    "scto_obsidian-master/📚 Reading List.md",
+    "scto_obsidian-master/📆 Calendar",
+    "scto_obsidian-master/💡 SCTO System explained.md",
+    "scto_obsidian-master/👓 List of Papers.md",
+    "scto_obsidian-master/__Templates",
+    "scto_obsidian-master/__Papers",
+    "scto_obsidian-master/__Media",
+    "scto_obsidian-master/Start here.canvas",
+    "scto_obsidian-master/Reference Manager.canvas",
+    "scto_obsidian-master/Readme.md",
+    "scto_obsidian-master/Dataview Templates.md",
+    "scto_obsidian-master/4️⃣ Outlines",
+    "scto_obsidian-master/3️⃣ Thoughts",
+    "scto_obsidian-master/2️⃣ Collections",
     "Try New Commit.md"
   ]
 }
