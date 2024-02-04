@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9b9f2de73c06312e","type":"group","x":-1720,"y":-440,"width":1020,"height":1360,"label":"General"},
+		{"id":"28ce87330ebad00e","type":"file","file":"Pasted image 20240204154136.jpg","x":-1700,"y":60,"width":520,"height":291},
+		{"id":"f316ebcfdc0ab118","type":"link","url":"https://aclanthology.org/2022.naacl-main.365/","x":-1140,"y":60,"width":400,"height":291},
+		{"id":"a0f14149b3f7c510","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xyR86xcI8Ag?si=oxYX76l1jYmxMFI2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>","x":-1685,"y":456,"width":610,"height":369},
+		{"id":"aaad308da33b3f50","type":"text","text":"## Ambiguity","x":-440,"y":-50,"width":250,"height":60},
+		{"id":"c72524da892ff6c7","type":"file","file":"1️⃣ Primary Sources/Anjali 2014.md","x":-1700,"y":-420,"width":520,"height":400},
+		{"id":"179031f1564db99d","type":"file","file":"__Papers/ambiguities-in-natural-language-processing.pdf","x":-1140,"y":-420,"width":400,"height":400},
+		{"id":"9931aba86ee58680","type":"text","text":"# Challenges: Neural Machine Translation","x":-80,"y":-100,"width":320,"height":160},
+		{"id":"c4f861c66c6cddac","type":"file","file":"Excalidraw 1/mind map.md","x":600,"y":351,"width":400,"height":400},
+		{"id":"7b9412a42987ba9e","type":"file","file":"Excalidraw 1/SLR github.md","x":-80,"y":280,"width":515,"height":868}
+	],
+	"edges":[
+		{"id":"2e3085c8a81b447d","fromNode":"9931aba86ee58680","fromSide":"left","toNode":"aaad308da33b3f50","toSide":"right"},
+		{"id":"961e4efe25aa8beb","fromNode":"aaad308da33b3f50","fromSide":"left","toNode":"9b9f2de73c06312e","toSide":"right"},
+		{"id":"01ceb0457a4e3e2b","fromNode":"c72524da892ff6c7","fromSide":"right","toNode":"179031f1564db99d","toSide":"left"},
+		{"id":"791c112c04a38f8c","fromNode":"c72524da892ff6c7","fromSide":"bottom","toNode":"28ce87330ebad00e","toSide":"top"},
+		{"id":"eef0d7b85a36824b","fromNode":"c72524da892ff6c7","fromSide":"bottom","toNode":"f316ebcfdc0ab118","toSide":"left"}
+	]
+}
