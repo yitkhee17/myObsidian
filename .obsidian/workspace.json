@@ -11,9 +11,11 @@
             "id": "40424adc4243af67",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "myKanban.md"
+                "file": "Learn Obsidian/Admonitions.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -77,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "7976bfc77fd13b3d",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myKanban.md",
+                "file": "Learn Obsidian/Admonitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myKanban.md",
+                "file": "Learn Obsidian/Admonitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myKanban.md"
+                "file": "Learn Obsidian/Admonitions.md"
               }
             }
           },
@@ -170,8 +171,10 @@
   },
   "active": "40424adc4243af67",
   "lastOpenFiles": [
-    "💡 SCTO System explained.md",
+    "Learn Obsidian/Mind map.md",
+    "Learn Obsidian/Markdown.md",
     "myKanban.md",
+    "💡 SCTO System explained.md",
     "__Templates/Source Note.md",
     "Canvas/Start here.canvas",
     "Canvas/Sample.canvas",
@@ -187,8 +190,6 @@
     "Canvas",
     "Learn Obsidian/Zotero.md",
     "Learn Obsidian/Zettelkasten.md",
-    "Learn Obsidian/Mind map.md",
-    "Learn Obsidian/Markdown.md",
     "Learn Obsidian/Admonitions.md",
     "Learn Obsidian/Dataview Templates.md",
     "Learn Obsidian/Readme.md",
