@@ -1,0 +1,21 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "LR Note",
+      "outputPathTemplate": "1️⃣ Primary Sources/{{citekey}}.md",
+      "imageOutputPathTemplate": "__Media/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "__Templates/Zotero Files.md",
+      "cslStyle": "apa"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
