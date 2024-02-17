@@ -4,12 +4,23 @@
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
-  "citeFormats": [],
+  "citeFormats": [
+    {
+      "name": "Pandoc",
+      "format": "pandoc",
+      "brackets": true
+    },
+    {
+      "name": "Format #1",
+      "format": "formatted-citation",
+      "cslStyle": "apa"
+    }
+  ],
   "exportFormats": [
     {
       "name": "LR Note",
-      "outputPathTemplate": "1️⃣ Primary Sources/{{citekey}}.md",
-      "imageOutputPathTemplate": "__Media/{{citekey}}/",
+      "outputPathTemplate": "1️⃣ Primary Sources/{{citekey}}/{{citekey}}.md",
+      "imageOutputPathTemplate": "1️⃣ Primary Sources/{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "__Templates/Zotero Files.md",
       "cslStyle": "apa"

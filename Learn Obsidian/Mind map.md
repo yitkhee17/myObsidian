@@ -1,3 +1,6 @@
+>[!note] Mermaid plugin
+>https://mermaid.js.org/
+>can be edit online: https://stackedit.io/app#
 # Mind map
 
 
