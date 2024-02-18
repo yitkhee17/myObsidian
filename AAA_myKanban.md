@@ -27,6 +27,8 @@ kanban-plugin: basic
 ## Publication
 
 - [ ] [ICTES2024-15/3/2024](https://submit.confbay.com/conf/ictesicoseb2024)
+- [ ] [WoS Journal Matching](https://mjl.clarivate.com/home)
+- [ ] A comparatively Study on Transformers vs RNN in Neural Machine Translation
 
 
 ## Completed

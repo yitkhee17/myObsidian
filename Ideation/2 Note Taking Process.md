@@ -8,9 +8,20 @@
 > ```[[real note name|display name]] ```
 
 >[!Note] Notes
->1. Create note from Zotero annotation
+>1. Create note from Zotero annotation until all highlight or else is done
+>	1. Write a brief synopsis
+>	2. What she claim
+>	3. What she found
+>	4. What she solved
 >2. Break out personal idea
+>	1. the origin of the idea
+>	2. how this work
+>	3. how it came to be
 >3. Interconnect all notes
+>	1. write the source of the idea [@citekey]
+>	2. link all idea as possible
+>		1. related idea & who support it
+>		2. counter idea, & who support it
 
 >[!Alert] Process
 >1. SOURCE from zotero

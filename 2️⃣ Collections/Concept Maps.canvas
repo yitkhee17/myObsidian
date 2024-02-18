@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"40b344b1fb3a5620","type":"file","file":"2️⃣ Collections/Concepts/code-switching.md","x":-220,"y":-400,"width":400,"height":160},
+		{"id":"e99730b367a00393","type":"file","file":"2️⃣ Collections/Concepts/CALCS.md","x":-220,"y":-200,"width":400,"height":200},
+		{"id":"b040648332aa06d2","type":"file","file":"2️⃣ Collections/Concepts/code-switching-type.md","x":-220,"y":-660,"width":400,"height":169},
+		{"id":"5e036d1b0927fa69","type":"file","file":"2️⃣ Collections/Concepts/inter-sentential-code-switching.md","x":-680,"y":-1060,"width":400,"height":270},
+		{"id":"2d9f41fe72b691db","type":"file","file":"2️⃣ Collections/Concepts/intra-sentential-code-switching.md","x":-220,"y":-1054,"width":400,"height":259},
+		{"id":"7bd3f72c5e0e434b","type":"file","file":"2️⃣ Collections/Concepts/morphological-code-switching.md","x":240,"y":-1054,"width":400,"height":259},
+		{"id":"4eee0a608b8e5251","type":"text","text":"raise challenegs","x":315,"y":-350,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5f2924f0fcb3995e","fromNode":"40b344b1fb3a5620","fromSide":"top","toNode":"b040648332aa06d2","toSide":"bottom"},
+		{"id":"b67b24368bb7bca7","fromNode":"b040648332aa06d2","fromSide":"top","toNode":"5e036d1b0927fa69","toSide":"bottom"},
+		{"id":"6100d858d21e9deb","fromNode":"b040648332aa06d2","fromSide":"top","toNode":"2d9f41fe72b691db","toSide":"bottom"},
+		{"id":"1118b79245018517","fromNode":"b040648332aa06d2","fromSide":"top","toNode":"7bd3f72c5e0e434b","toSide":"bottom"},
+		{"id":"01045fabb6a7eb75","fromNode":"40b344b1fb3a5620","fromSide":"right","toNode":"4eee0a608b8e5251","toSide":"left","toEnd":"none"}
+	]
+}

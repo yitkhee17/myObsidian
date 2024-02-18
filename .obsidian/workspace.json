@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59df7e48bed7f533",
+            "id": "8dd0bd276d549b1e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📆 Calendar/17 Feb 2024.md",
+                "file": "📆 Calendar/18 Feb 2024.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,30 +22,58 @@
             }
           },
           {
-            "id": "8dd0bd276d549b1e",
+            "id": "8e0caea33e8a95a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideation/1 Searching Process.md",
+                "file": "Ideation/Keyword.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea2d1537657c2c8e",
+            "id": "83cf7d316c8342ae",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2️⃣ Collections/Concept Maps.canvas",
+                "viewState": {
+                  "x": 915.9977846153844,
+                  "y": -386.63384615384626,
+                  "zoom": -1.2850607121637927
+                }
+              }
+            }
+          },
+          {
+            "id": "5af97a016a16dbeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideation/2 Note Taking Process.md",
+                "file": "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99f637455c3c8959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideation/Keyword.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "7976bfc77fd13b3d",
@@ -111,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/17 Feb 2024.md",
+                "file": "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📆 Calendar/17 Feb 2024.md",
+                "file": "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📆 Calendar/17 Feb 2024.md"
+                "file": "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md"
               }
             }
           },
@@ -176,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,49 +222,49 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "59df7e48bed7f533",
+  "active": "5af97a016a16dbeb",
   "lastOpenFiles": [
-    "Ideation/2 Note Taking Process.md",
+    "Ideation/Keyword.md",
+    "3️⃣ Thoughts/Untitled.canvas",
+    "👓 List of Papers.md",
+    "💡 SCTO System explained.md",
+    "📚 Reading List.md",
+    "AAA_myKanban.md",
+    "2️⃣ Collections/Concepts/code-switching.md",
+    "2️⃣ Collections/Concepts/CALCS.md",
+    "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
+    "2️⃣ Collections/Concepts/multilingual-pre-trained-language-models(LMs).md",
+    "2️⃣ Collections/Concepts/monolingual-model-break-down-on-code-switched-input.md",
+    "2️⃣ Collections/Concept Maps.canvas",
+    "2️⃣ Collections/Concepts/langauge-generation.md",
+    "2️⃣ Collections/Concepts/code-switching-type.md",
+    "2️⃣ Collections/Concepts/morphological-code-switching.md",
+    "Untitled.md",
+    "2️⃣ Collections/Concepts/inter-sentential-code-switching.md",
+    "2️⃣ Collections/Concepts/intra-sentential-code-switching.md",
     "Ideation/1 Searching Process.md",
+    "📆 Calendar/18 Feb 2024.md",
+    "2️⃣ Collections/Concepts/Neural Machine Translation.md",
+    "2️⃣ Collections/Concepts/Law of Requisite Variety.md",
+    "To-Do.md",
+    "Ideation/2 Note Taking Process.md",
     "📆 Calendar/17 Feb 2024.md",
     "__Templates/Zotero Files.md",
     "1️⃣ Primary Sources/liuWeReAfraid2023/liuWeReAfraid2023.md",
     "1️⃣ Primary Sources/liuWeReAfraid2023/image-1-x77-y275.png",
     "1️⃣ Primary Sources/liuWeReAfraid2023",
-    "1️⃣ Primary Sources/liuWeReAfraid2023.md",
-    "1️⃣ Primary Sources/Pianka 1966.md",
-    "1️⃣ Primary Sources/Connell 1964.md",
-    "myKanban.md",
-    "__Templates/Calendar Entry.md",
-    "🗓️ Calendar Home.md",
-    "📆 Calendar/24 Dec 2022.md",
-    "__Templates/Outline Note.md",
-    "To-Do.md",
-    "Window Tab.md",
-    "real note name.md",
-    "Learn Obsidian/Zotero.md",
     "Ideation",
     "custom-icons.zip",
-    "Learn Obsidian/Admonitions.md",
     "Reference Manager.canvas",
     "Start here.canvas",
     "Pasted image 20240217011904.png",
-    "Learn Obsidian/Mind map.md",
-    "Learn Obsidian/Markdown.md",
-    "💡 SCTO System explained.md",
-    "__Templates/Source Note.md",
     "Canvas/Start here.canvas",
     "Canvas/Sample.canvas",
     "Canvas/Research Mindmap.canvas",
     "Canvas/Reference Manager.canvas",
-    "Canvas/Readme canvas.md",
     "Canvas/My Brainstorm.canvas",
     "Canvas/Media Dashboard.canvas",
-    "Canvas/Library Dashboard.canvas",
-    "Canvas/Homepage.canvas",
     "Canvas",
-    "Learn Obsidian/Zettelkasten.md",
-    "Learn Obsidian/Dataview Templates.md",
     "__Media/liuWeReAfraid2023/image-1-x77-y275.png",
     "__Media/liuWeReAfraid2023",
     "scto_obsidian-master/__Media/liuWeReAfraid2023/image-1-x77-y275.png",
