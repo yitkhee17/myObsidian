@@ -13,12 +13,13 @@
 >1. Read and annotate
 >	1. Highlight word for QUOTE; Add explanation if needed
 >	2. Send to Copilot to ask for summary; Add to Zotero notes
->		1. what the problem in this research ?
->		2. what the limitation of this research ?
->		3. Please provide me, what the methodology used in this research?
->		4. how to collect the data ?
->		5. what the result from this research ?
->		6. Please provide me the future work of this research
+>		1. Generate document summary
+>		2. what the problem in this research ?
+>		3. what the limitation of this research ?
+>		4. Please provide me, what the methodology used in this research?
+>		5. how to collect the data ?
+>		6. what the result from this research ?
+>		7. Please provide me the future work of this research
 >	3. Add Tag: DoneLR
 
 >[!note] Add to Obsidian!

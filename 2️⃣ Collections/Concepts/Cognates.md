@@ -1,0 +1,1 @@
+word share similar forms and meaning across language

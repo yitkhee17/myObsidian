@@ -1,5 +1,8 @@
 NMT models handle code-switched text or develop specialized NMT architectures for multilingual communication.
 Keyword to search:
+1. Code-switching or code-mixing
+2. Cross-lingual homograph OR inter-lingual homograph
+3. neural machine translation
 
 |**Keyword**|**No. of Papers**|**Duplication**|**Final Sum**|
 |---|---|---|---|

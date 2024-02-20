@@ -34,45 +34,49 @@
             }
           },
           {
-            "id": "83cf7d316c8342ae",
+            "id": "45ecb4d45d1262b8",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2️⃣ Collections/Concept Maps.canvas",
                 "viewState": {
-                  "x": 915.9977846153844,
-                  "y": -386.63384615384626,
-                  "zoom": -1.2850607121637927
+                  "x": -882.1334014313279,
+                  "y": -1421.8463230586365,
+                  "zoom": 0.3333333333333332
                 }
               }
             }
           },
           {
-            "id": "5af97a016a16dbeb",
+            "id": "916dd20f0ca9e046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
+                "file": "Ideation/1 Searching Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99f637455c3c8959",
+            "id": "d9eb04b151331c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ideation/Keyword.md",
-                "mode": "source",
-                "source": false
+                "file": "2️⃣ Collections/Thesis Concept.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 534.4819413321702,
+                  "zoom": -0.6666666666666666
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "what",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📆 Calendar/18 Feb 2024.md",
+                "file": "Ideation/1 Searching Process.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📆 Calendar/18 Feb 2024.md",
+                "file": "Ideation/1 Searching Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📆 Calendar/18 Feb 2024.md"
+                "file": "Ideation/1 Searching Process.md"
               }
             }
           },
@@ -204,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,35 +227,37 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "8dd0bd276d549b1e",
+  "active": "916dd20f0ca9e046",
   "lastOpenFiles": [
-    "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
+    "2️⃣ Collections/Concept Maps.canvas",
+    "2️⃣ Collections/Concepts/Cognates.md",
+    "Ideation/1 Searching Process.md",
+    "__Templates/Zotero Files.md",
+    "AAA_Window Tab.md",
+    "AAA_myKanban.md",
+    "Reading List/📚 Reading List.md",
+    "Ideation/2 Note Taking Process.md",
     "Ideation/Keyword.md",
+    "Reading List/Sixth Workshop on Computational Approaches to Linguistic Code-Switching.md",
+    "2️⃣ Collections/Thesis Concept.canvas",
+    "📆 Calendar/18 Feb 2024.md",
+    "2️⃣ Collections/Concepts/Interlingual homograph.md",
+    "Reading List/Journal.md",
+    "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
+    "2️⃣ Collections/Concepts/().md",
+    "2️⃣ Collections/Concepts/collecting high-quality and low-cost code-mixed data remains a challenge for natural language processing (NLP) research.md",
+    "2️⃣ Collections/Concepts/transformer cannot always encode positional information due to its non-recurrent characteristics.md",
+    "2️⃣ Collections/Concepts/Switching Points(SPs).md",
+    "2️⃣ Collections/Concepts/Neural language model for code-switching is yet to explore..md",
+    "2️⃣ Collections/Concepts/Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching.md",
+    "2️⃣ Collections/Concepts/cs-data-of-low-resource-language-are-too-small-to-train-model-from-scratch..md",
+    "Reading List",
     "3️⃣ Thoughts/Untitled.canvas",
     "👓 List of Papers.md",
     "💡 SCTO System explained.md",
-    "📚 Reading List.md",
-    "AAA_myKanban.md",
     "2️⃣ Collections/Concepts/code-switching.md",
     "2️⃣ Collections/Concepts/CALCS.md",
     "2️⃣ Collections/Concepts/multilingual-pre-trained-language-models(LMs).md",
-    "2️⃣ Collections/Concepts/monolingual-model-break-down-on-code-switched-input.md",
-    "2️⃣ Collections/Concept Maps.canvas",
-    "2️⃣ Collections/Concepts/langauge-generation.md",
-    "2️⃣ Collections/Concepts/code-switching-type.md",
-    "2️⃣ Collections/Concepts/morphological-code-switching.md",
-    "Untitled.md",
-    "2️⃣ Collections/Concepts/inter-sentential-code-switching.md",
-    "2️⃣ Collections/Concepts/intra-sentential-code-switching.md",
-    "Ideation/1 Searching Process.md",
-    "📆 Calendar/18 Feb 2024.md",
-    "2️⃣ Collections/Concepts/Neural Machine Translation.md",
-    "2️⃣ Collections/Concepts/Law of Requisite Variety.md",
-    "To-Do.md",
-    "Ideation/2 Note Taking Process.md",
-    "📆 Calendar/17 Feb 2024.md",
-    "__Templates/Zotero Files.md",
-    "1️⃣ Primary Sources/liuWeReAfraid2023/liuWeReAfraid2023.md",
     "1️⃣ Primary Sources/liuWeReAfraid2023/image-1-x77-y275.png",
     "1️⃣ Primary Sources/liuWeReAfraid2023",
     "Ideation",
@@ -262,7 +270,6 @@
     "Canvas/Research Mindmap.canvas",
     "Canvas/Reference Manager.canvas",
     "Canvas/My Brainstorm.canvas",
-    "Canvas/Media Dashboard.canvas",
     "Canvas",
     "__Media/liuWeReAfraid2023/image-1-x77-y275.png",
     "__Media/liuWeReAfraid2023",
@@ -271,7 +278,6 @@
     "scto_obsidian-master/__Media",
     "scto_obsidian-master",
     "Learn Obsidian",
-    "📆 Calendar",
     "_Media/liuWeReAfraid2023/image-1-x77-y275.png",
     "__Media/Pasted image 20221214131115.png",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
