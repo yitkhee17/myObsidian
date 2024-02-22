@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"4b518c927b926f39","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.md","x":-160,"y":0,"width":400,"height":400},
+		{"id":"0730635dd17b2630","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/Reading List.md","x":-600,"y":0,"width":400,"height":400},
+		{"id":"c40a0329dd647140","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/Neural Model Respond.md","x":320,"y":0,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"7d5d41d678f2d0a4","fromNode":"c40a0329dd647140","fromSide":"left","toNode":"4b518c927b926f39","toSide":"right","label":"to"}
+	]
+}

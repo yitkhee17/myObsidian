@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"48e0462f2f77e320","type":"file","file":"2️⃣ Collections/NLP in CS/Untitled 1.md","x":-287,"y":-73,"width":400,"height":400},
+		{"id":"36d2ace788959653","type":"file","file":"2️⃣ Collections/NLP in CS/Handling informal context.md","x":0,"y":-520,"width":400,"height":140},
+		{"id":"b646cc7ce2ca96c2","type":"file","file":"2️⃣ Collections/NLP in CS/Natural Language Processing Systems.md","x":-760,"y":-520,"width":400,"height":120},
+		{"id":"56830e01e6139f6b","type":"file","file":"2️⃣ Collections/NLP in CS/Neural Machine Translation.md","x":-760,"y":-360,"width":400,"height":120},
+		{"id":"7e25e6cb4f4b19ad","type":"file","file":"2️⃣ Collections/NLP in CS/NLP stil in low progress of handling informal contet.md","x":-400,"y":-840,"width":400,"height":241}
+	],
+	"edges":[
+		{"id":"54dbbbba2f28d7ca","fromNode":"b646cc7ce2ca96c2","fromSide":"bottom","toNode":"56830e01e6139f6b","toSide":"top"},
+		{"id":"cee9bf04d1251d17","fromNode":"b646cc7ce2ca96c2","fromSide":"right","toNode":"36d2ace788959653","toSide":"left","label":"lag behind"},
+		{"id":"7ace8ffe105ce28f","fromNode":"56830e01e6139f6b","fromSide":"right","toNode":"36d2ace788959653","toSide":"left"},
+		{"id":"8b7247da99778bea","fromNode":"36d2ace788959653","fromSide":"top","toNode":"7e25e6cb4f4b19ad","toSide":"right"}
+	]
+}

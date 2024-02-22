@@ -25,58 +25,34 @@
             "id": "8e0caea33e8a95a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideation/Keyword.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45ecb4d45d1262b8",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
-                "file": "2️⃣ Collections/Concept Maps.canvas",
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "viewState": {
-                  "x": -882.1334014313279,
-                  "y": -1421.8463230586365,
-                  "zoom": 0.3333333333333332
+                  "x": 2051.0496975227506,
+                  "y": -556.08502133443,
+                  "zoom": 0.7796914365076124
                 }
               }
             }
           },
           {
-            "id": "916dd20f0ca9e046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideation/1 Searching Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9eb04b151331c14",
+            "id": "5fe4d4c09da28906",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2️⃣ Collections/Thesis Concept.canvas",
+                "file": "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 534.4819413321702,
-                  "zoom": -0.6666666666666666
+                  "x": 90.88882891271899,
+                  "y": 259.6957921384648,
+                  "zoom": -0.4425719500992186
                 }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideation/1 Searching Process.md",
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideation/1 Searching Process.md",
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideation/1 Searching Process.md"
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas"
               }
             }
           },
@@ -227,37 +202,44 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "916dd20f0ca9e046",
+  "active": "8e0caea33e8a95a8",
   "lastOpenFiles": [
-    "2️⃣ Collections/Concept Maps.canvas",
-    "2️⃣ Collections/Concepts/Cognates.md",
-    "Ideation/1 Searching Process.md",
-    "__Templates/Zotero Files.md",
-    "AAA_Window Tab.md",
-    "AAA_myKanban.md",
-    "Reading List/📚 Reading List.md",
-    "Ideation/2 Note Taking Process.md",
+    "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
+    "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
+    "2️⃣ Collections/Code-switching/Untitled 1.md",
+    "2️⃣ Collections/Code-switching/Idioms.md",
+    "2️⃣ Collections/Code-switching/Cross-lingual Homographs.md",
+    "2️⃣ Collections/Code-switching/Cognates.md",
+    "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
+    "2️⃣ Collections/Code-switching/Malay language.md",
+    "2️⃣ Collections/Code-switching/English Language.md",
+    "2️⃣ Collections/Code-switching/Malay-English CS.md",
+    "2️⃣ Collections/Code-switching/Source.md",
+    "2️⃣ Collections/Code-switching/Code-switching.md",
+    "2️⃣ Collections/NLP in CS/Untitled 1.md",
+    "2️⃣ Collections/NLP in CS/NLP stil in low progress of handling informal contet.md",
+    "2️⃣ Collections/NLP in CS/Handling informal context.md",
+    "2️⃣ Collections/NLP in CS/Neural Machine Translation.md",
+    "2️⃣ Collections/NLP in CS/Natural Language Processing Systems.md",
+    "2️⃣ Collections/NLP in CS",
+    "2️⃣ Collections/Code-switching/Segment.md",
+    "2️⃣ Collections/Code-switching/Matrix Language.md",
+    "2️⃣ Collections/Code-switching/Embedded Language.md",
     "Ideation/Keyword.md",
-    "Reading List/Sixth Workshop on Computational Approaches to Linguistic Code-Switching.md",
+    "2️⃣ Collections/Code-switching",
+    "2️⃣ Collections/Cross-lingual Priming/Neural Model Respond.md",
+    "2️⃣ Collections/Concept Maps.canvas",
+    "2️⃣ Collections/Cross-lingual Priming/Reading List.md",
+    "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.md",
+    "2️⃣ Collections/Cross-lingual Priming/Untitled",
+    "2️⃣ Collections/Cross-lingual Priming",
+    "Ideation/1 Searching Process.md",
+    "2️⃣ Collections/Concepts/Rental.md",
+    "2️⃣ Collections/AAA_Concepts/Cognates.md",
+    "__Templates/Zotero Files.md",
     "2️⃣ Collections/Thesis Concept.canvas",
-    "📆 Calendar/18 Feb 2024.md",
-    "2️⃣ Collections/Concepts/Interlingual homograph.md",
-    "Reading List/Journal.md",
-    "2️⃣ Collections/Concepts/code-switching-raise-challenges-in-language-technologies.md",
-    "2️⃣ Collections/Concepts/().md",
-    "2️⃣ Collections/Concepts/collecting high-quality and low-cost code-mixed data remains a challenge for natural language processing (NLP) research.md",
-    "2️⃣ Collections/Concepts/transformer cannot always encode positional information due to its non-recurrent characteristics.md",
-    "2️⃣ Collections/Concepts/Switching Points(SPs).md",
-    "2️⃣ Collections/Concepts/Neural language model for code-switching is yet to explore..md",
-    "2️⃣ Collections/Concepts/Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching.md",
-    "2️⃣ Collections/Concepts/cs-data-of-low-resource-language-are-too-small-to-train-model-from-scratch..md",
     "Reading List",
     "3️⃣ Thoughts/Untitled.canvas",
-    "👓 List of Papers.md",
-    "💡 SCTO System explained.md",
-    "2️⃣ Collections/Concepts/code-switching.md",
-    "2️⃣ Collections/Concepts/CALCS.md",
-    "2️⃣ Collections/Concepts/multilingual-pre-trained-language-models(LMs).md",
     "1️⃣ Primary Sources/liuWeReAfraid2023/image-1-x77-y275.png",
     "1️⃣ Primary Sources/liuWeReAfraid2023",
     "Ideation",
@@ -267,17 +249,10 @@
     "Pasted image 20240217011904.png",
     "Canvas/Start here.canvas",
     "Canvas/Sample.canvas",
-    "Canvas/Research Mindmap.canvas",
-    "Canvas/Reference Manager.canvas",
-    "Canvas/My Brainstorm.canvas",
     "Canvas",
     "__Media/liuWeReAfraid2023/image-1-x77-y275.png",
     "__Media/liuWeReAfraid2023",
     "scto_obsidian-master/__Media/liuWeReAfraid2023/image-1-x77-y275.png",
-    "scto_obsidian-master/__Media/liuWeReAfraid2023",
-    "scto_obsidian-master/__Media",
-    "scto_obsidian-master",
-    "Learn Obsidian",
     "_Media/liuWeReAfraid2023/image-1-x77-y275.png",
     "__Media/Pasted image 20221214131115.png",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",

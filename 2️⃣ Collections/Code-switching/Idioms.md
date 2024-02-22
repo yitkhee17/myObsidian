@@ -1,0 +1,2 @@
+Non-compositional phrases with figurative meanings (e.g., “kick the bucket”). 
+- If you encounter the translated version of an idiom from L1 in L2, you’ll recognize it, but its figurative meaning may be processed more slowly.

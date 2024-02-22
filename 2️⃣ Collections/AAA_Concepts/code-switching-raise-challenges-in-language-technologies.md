@@ -1,4 +1,4 @@
-[[code-switching]] cause challenges in language technologies such as [[machine-translation]] , [[ASR]], [[language-generation]], [[information-retrieval-and-extraction]] and [[semantic-processing]]. @CALCS
+[[2️⃣ Collections/AAA_Concepts/code-switching]] cause challenges in language technologies such as [[machine-translation]] , [[ASR]], [[language-generation]], [[information-retrieval-and-extraction]] and [[semantic-processing]]. @CALCS
 
 - [[monolingual-model-break-down-on-code-switched-input | model are trained by one language. when more than one input is allow, model break down is expected.]] @CALCS
 
