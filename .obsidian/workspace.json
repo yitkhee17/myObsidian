@@ -6,6 +6,7 @@
       {
         "id": "eb7e725475244bad",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "8dd0bd276d549b1e",
@@ -29,24 +30,24 @@
               "state": {
                 "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "viewState": {
-                  "x": 2051.0496975227506,
-                  "y": -556.08502133443,
-                  "zoom": 0.7796914365076124
+                  "x": 375.5045027042037,
+                  "y": 1035.4102208115241,
+                  "zoom": -1.6666666666666665
                 }
               }
             }
           },
           {
-            "id": "5fe4d4c09da28906",
+            "id": "ddfd0f15342da296",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
+                "file": "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
                 "viewState": {
-                  "x": 90.88882891271899,
-                  "y": 259.6957921384648,
-                  "zoom": -0.4425719500992186
+                  "x": 3.4527107431825783,
+                  "y": 3384.1257989413057,
+                  "zoom": -1.333333333333333
                 }
               }
             }
@@ -102,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "7976bfc77fd13b3d",
@@ -204,39 +204,39 @@
   },
   "active": "8e0caea33e8a95a8",
   "lastOpenFiles": [
-    "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
+    "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
     "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
-    "2️⃣ Collections/Code-switching/Untitled 1.md",
+    "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
+    "Reading List/Journal.md",
+    "Reading List/📚 Reading List.md",
+    "Reading List/NMT Reading List.md",
+    "2️⃣ Collections/NLP in CS/Positional Encoder for CS.md",
+    "2️⃣ Collections/NLP in CS/Untitled 4.md",
+    "2️⃣ Collections/NLP in CS/Decoder for CS.md",
+    "2️⃣ Collections/NLP in CS/Untitled 2.md",
+    "2️⃣ Collections/NLP in CS/Introduction.md",
+    "2️⃣ Collections/NLP in CS/Untitled.md",
+    "2️⃣ Collections/NLP in CS/Monolingual NMT.md",
+    "2️⃣ Collections/NLP in CS/Attention mechanism.md",
+    "2️⃣ Collections/NLP in CS/Transformer.md",
+    "2️⃣ Collections/NLP in CS/Encoder-Decoder Architecture.md",
+    "2️⃣ Collections/Code-switching/Process the word in the context of cross-lingual priming.md",
     "2️⃣ Collections/Code-switching/Idioms.md",
     "2️⃣ Collections/Code-switching/Cross-lingual Homographs.md",
     "2️⃣ Collections/Code-switching/Cognates.md",
-    "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
     "2️⃣ Collections/Code-switching/Malay language.md",
     "2️⃣ Collections/Code-switching/English Language.md",
     "2️⃣ Collections/Code-switching/Malay-English CS.md",
     "2️⃣ Collections/Code-switching/Source.md",
     "2️⃣ Collections/Code-switching/Code-switching.md",
-    "2️⃣ Collections/NLP in CS/Untitled 1.md",
+    "2️⃣ Collections/NLP in CS/Encoder for CS.md",
     "2️⃣ Collections/NLP in CS/NLP stil in low progress of handling informal contet.md",
     "2️⃣ Collections/NLP in CS/Handling informal context.md",
-    "2️⃣ Collections/NLP in CS/Neural Machine Translation.md",
-    "2️⃣ Collections/NLP in CS/Natural Language Processing Systems.md",
     "2️⃣ Collections/NLP in CS",
-    "2️⃣ Collections/Code-switching/Segment.md",
-    "2️⃣ Collections/Code-switching/Matrix Language.md",
-    "2️⃣ Collections/Code-switching/Embedded Language.md",
-    "Ideation/Keyword.md",
     "2️⃣ Collections/Code-switching",
-    "2️⃣ Collections/Cross-lingual Priming/Neural Model Respond.md",
     "2️⃣ Collections/Concept Maps.canvas",
-    "2️⃣ Collections/Cross-lingual Priming/Reading List.md",
-    "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.md",
     "2️⃣ Collections/Cross-lingual Priming/Untitled",
     "2️⃣ Collections/Cross-lingual Priming",
-    "Ideation/1 Searching Process.md",
-    "2️⃣ Collections/Concepts/Rental.md",
-    "2️⃣ Collections/AAA_Concepts/Cognates.md",
-    "__Templates/Zotero Files.md",
     "2️⃣ Collections/Thesis Concept.canvas",
     "Reading List",
     "3️⃣ Thoughts/Untitled.canvas",

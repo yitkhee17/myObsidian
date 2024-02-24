@@ -1,0 +1,1 @@
+allow model focus on a specific part of the input sequence when producing output word
