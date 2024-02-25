@@ -1,0 +1,2 @@
+- Kannada-English + lexicon-based and machine learning approaches (@[NBLex: emotion prediction in Kannada-English code-switch text using naïve bayes lexicon approach](https://scite.ai/reports/nblex-emotion-prediction-in-kannada-english-5Gra1y4R))
+	- improving the contextual accuracy

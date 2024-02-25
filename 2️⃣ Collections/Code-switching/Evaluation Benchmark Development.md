@@ -1,0 +1,2 @@
+- GLUECoS benchmark (@[GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://scite.ai/reports/gluecos-an-evaluation-benchmark-for-Le64PmNA)) 
+	- evaluating the effectiveness of machine translation models in handling code-switched text data

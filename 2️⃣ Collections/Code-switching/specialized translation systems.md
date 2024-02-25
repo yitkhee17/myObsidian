@@ -1,0 +1,4 @@
+specialized machine translation systems __tailored for code-switched input__ have gained attention, with studies addressing the challenges posed by social media data and the need for domain-specific curricula in code-switched machine translation
+- (@[ CALCS 2021 Shared Task: Machine Translation for Code-Switched Data](https://scite.ai/reports/calcs-2021-shared-task-machine-jMn86y8z))
+- (@[Domain Curricula for Code-Switched MT at MixMT 2022](https://scite.ai/reports/domain-curricula-for-code-switched-mt-kePG206E))
+These specialized approaches highlight the importance of considering the unique characteristics of code-switching in translation tasks.
