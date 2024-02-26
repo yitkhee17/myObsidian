@@ -27,32 +27,56 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
+                "file": "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
                 "viewState": {
-                  "x": 226.92300508207362,
-                  "y": 2485.835030923242,
-                  "zoom": -0.8063114838085781
+                  "x": 295.19400048176306,
+                  "y": 326.07505804901973,
+                  "zoom": -1.3867725922947938
                 }
               }
             }
           },
           {
-            "id": "ddfd0f15342da296",
+            "id": "04fd935133e5db4f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "viewState": {
-                  "x": 472.0805335599293,
-                  "y": 3652.9067173112826,
-                  "zoom": -1.3333333333333333
+                  "x": 1930.3868839208271,
+                  "y": -666.792015529458,
+                  "zoom": 0.5993774730401733
                 }
+              }
+            }
+          },
+          {
+            "id": "59033ef90f226112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recent studies show that smaller models, trained and fine-tuned on bespoke datasets, may outperform multilingual LLMs in machine translation1..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0fb2eafe5e4481f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2️⃣ Collections/AAA_Concepts/multilingual neural machine translation deal weakly with code-switch input.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
+    "width": 390.5,
     "collapsed": true
   },
   "right": {
@@ -119,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2️⃣ Collections/Code-switching/specialized translation systems.md",
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2️⃣ Collections/Code-switching/specialized translation systems.md",
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2️⃣ Collections/Code-switching/specialized translation systems.md"
+                "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas"
               }
             }
           },
@@ -202,57 +226,56 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "8e0caea33e8a95a8",
+  "active": "04fd935133e5db4f",
   "lastOpenFiles": [
-    "2️⃣ Collections/Code-switching/Untitled 5.md",
-    "2️⃣ Collections/Code-switching/Untitled 4.md",
-    "2️⃣ Collections/Code-switching/Untitled 3.md",
-    "2️⃣ Collections/Code-switching/specialized translation systems.md",
-    "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
     "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
-    "📆 Calendar/18 Feb 2024.md",
-    "2️⃣ Collections/Code-switching/non-compositional phrase.md",
-    "2️⃣ Collections/Code-switching/figurative meaning.md",
-    "2️⃣ Collections/Code-switching/Emotion Prediction.md",
-    "2️⃣ Collections/Code-switching/Evaluation Benchmark Development.md",
     "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
-    "Reading List/Journal.md",
-    "Reading List/📚 Reading List.md",
-    "Reading List/NMT Reading List.md",
-    "2️⃣ Collections/NLP in CS/Positional Encoder for CS.md",
-    "2️⃣ Collections/NLP in CS/Untitled 4.md",
-    "2️⃣ Collections/NLP in CS/Decoder for CS.md",
-    "2️⃣ Collections/NLP in CS/Untitled 2.md",
-    "2️⃣ Collections/NLP in CS/Introduction.md",
-    "2️⃣ Collections/NLP in CS/Untitled.md",
-    "2️⃣ Collections/NLP in CS/Monolingual NMT.md",
-    "2️⃣ Collections/NLP in CS/Attention mechanism.md",
-    "2️⃣ Collections/NLP in CS/Transformer.md",
-    "2️⃣ Collections/NLP in CS/Encoder-Decoder Architecture.md",
-    "2️⃣ Collections/Code-switching/Process the word in the context of cross-lingual priming.md",
-    "2️⃣ Collections/Code-switching/Idioms.md",
-    "2️⃣ Collections/Code-switching/Cross-lingual Homographs.md",
-    "2️⃣ Collections/Code-switching/Cognates.md",
-    "2️⃣ Collections/NLP in CS",
-    "2️⃣ Collections/Code-switching",
+    "Recent studies show that smaller models, trained and fine-tuned on bespoke datasets, may outperform multilingual LLMs in machine translation1..md",
+    "2️⃣ Collections/AAA_Concepts/multilingual neural machine translation deal weakly with code-switch input.md",
+    "2️⃣ Collections/AAA_Concepts/monolingual-model-break-down-on-code-switched-input.md",
+    "2️⃣ Collections/AAA_Concepts/morphological-code-switching.md",
+    "2️⃣ Collections/AAA_Concepts/transformer cannot always encode positional information due to its non-recurrent characteristics.md",
+    "2️⃣ Collections/AAA_Concepts/Neural language model for code-switching is yet to explore..md",
+    "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023a/nguyenCodeswitchingInputMachine2023a.md",
+    "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023a",
+    "Excalidraw/Drawing 2024-02-26 05.19.53.excalidraw.md",
+    "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023/nguyenCodeswitchingInputMachine2023.md",
+    "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023",
+    "Excalidraw/Drawing 2024-02-26 05.18.22.excalidraw.md",
+    "Excalidraw",
+    "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023b/nguyenCodeswitchingInputMachine2023b.md",
+    "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
+    "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023b",
+    "1️⃣ Primary Sources/songSwitchGLATMultilingualParallel2022/songSwitchGLATMultilingualParallel2022.md",
+    "1️⃣ Primary Sources/songSwitchGLATMultilingualParallel2022",
+    "2️⃣ Collections/AAA_Concepts/code-switching requires a large amount of parallel corpus and a robust language identification module..md",
+    "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022/jadhavCodeMixedHinglishEnglish2022.md",
+    "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022a/jadhavCodeMixedHinglishEnglish2022a.md",
+    "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022a",
+    "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022",
+    "1️⃣ Primary Sources/CodeMixedHinglishEnglish/CodeMixedHinglishEnglish.md",
+    "1️⃣ Primary Sources/CodeMixedHinglishEnglish",
+    "1️⃣ Primary Sources/xuCanYouTraducir2021/xuCanYouTraducir2021.md",
+    "1️⃣ Primary Sources/xuCanYouTraducir2021",
+    "1️⃣ Primary Sources/manghatMalayalamEnglishCodeSwitchedGrapheme2020/manghatMalayalamEnglishCodeSwitchedGrapheme2020.md",
+    "1️⃣ Primary Sources/sternerTongueSwitcherFineGrainedIdentification2023a/sternerTongueSwitcherFineGrainedIdentification2023a.md",
+    "1️⃣ Primary Sources/sternerTongueSwitcherFineGrainedIdentification2023a",
+    "1️⃣ Primary Sources/pop00188/pop00188.md",
+    "1️⃣ Primary Sources/sternerTongueSwitcherFineGrainedIdentification2023/sternerTongueSwitcherFineGrainedIdentification2023.md",
+    "Ideation/1 Searching Process.md",
+    "Ideation/active learning.md",
+    "2️⃣ Collections/Cross-lingual Priming/咋没解决2.md",
+    "2️⃣ Collections/Cross-lingual Priming/纯人体实验.md",
     "2️⃣ Collections/Concept Maps.canvas",
-    "2️⃣ Collections/Cross-lingual Priming/Untitled",
-    "2️⃣ Collections/Cross-lingual Priming",
     "2️⃣ Collections/Thesis Concept.canvas",
-    "Reading List",
     "3️⃣ Thoughts/Untitled.canvas",
     "1️⃣ Primary Sources/liuWeReAfraid2023/image-1-x77-y275.png",
-    "1️⃣ Primary Sources/liuWeReAfraid2023",
-    "Ideation",
-    "custom-icons.zip",
     "Reference Manager.canvas",
     "Start here.canvas",
     "Pasted image 20240217011904.png",
     "Canvas/Start here.canvas",
     "Canvas/Sample.canvas",
-    "Canvas",
     "__Media/liuWeReAfraid2023/image-1-x77-y275.png",
-    "__Media/liuWeReAfraid2023",
     "scto_obsidian-master/__Media/liuWeReAfraid2023/image-1-x77-y275.png",
     "_Media/liuWeReAfraid2023/image-1-x77-y275.png",
     "__Media/Pasted image 20221214131115.png",

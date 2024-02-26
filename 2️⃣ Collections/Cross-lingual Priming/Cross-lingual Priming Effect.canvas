@@ -2,7 +2,12 @@
 	"nodes":[
 		{"id":"4b518c927b926f39","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.md","x":-160,"y":0,"width":400,"height":400},
 		{"id":"0730635dd17b2630","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/Reading List.md","x":-600,"y":0,"width":400,"height":400},
-		{"id":"c40a0329dd647140","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/Neural Model Respond.md","x":320,"y":0,"width":400,"height":400}
+		{"id":"c40a0329dd647140","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/Neural Model Respond.md","x":320,"y":0,"width":400,"height":400},
+		{"id":"bec48a18318fa776","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/咋还没解决.md","x":-444,"y":521,"width":400,"height":400},
+		{"id":"c8826f3875b3af59","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/纯人体实验.md","x":477,"y":700,"width":400,"height":400},
+		{"id":"09133d3a05b939b2","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/有什么影响.md","x":-44,"y":521,"width":400,"height":400},
+		{"id":"8c2f03f6ef071b81","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/咋没解决2.md","x":-444,"y":960,"width":400,"height":400},
+		{"id":"55e3d4b628c6ddcc","type":"file","file":"2️⃣ Collections/Cross-lingual Priming/现在咋做的.md","x":-44,"y":960,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"7d5d41d678f2d0a4","fromNode":"c40a0329dd647140","fromSide":"left","toNode":"4b518c927b926f39","toSide":"right","label":"to"}
