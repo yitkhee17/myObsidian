@@ -1,0 +1,10 @@
+The statement you’ve provided outlines three main challenges in handling Malay-English code-switched texts with Neural Machine Translation (NMT) models:
+
+1. **Scarcity and Quality of Parallel Corpus**: NMT models learn to translate by being trained on large amounts of parallel text, where the same text is provided in both the source and target language. If there’s a scarcity of such parallel texts for Malay-English code-switched data, the model will have less data to learn from, which can negatively impact its performance. Additionally, if the available data is of poor quality (e.g., contains errors, is not representative of the language use, etc.), the model may learn incorrect patterns, further reducing its translation quality.
+    
+2. **Training on Monolingual Inputs**: Current NMT models are typically trained on monolingual data, meaning they learn to translate from one language to another, but not to handle code-switching where two languages are mixed in the same sentence. This can lead to poor performance when these models encounter code-switched data, as they haven’t been trained to handle the switching between languages within the same context.
+    
+3. **Presence of Cross-Lingual Homographs and Grammatical Blends**: Cross-lingual homographs (words that are spelled the same in different languages but have different meanings) and grammatical blends (mixing of grammatical rules from different languages) add another layer of complexity to code-switched data. NMT models need to not only identify the language of each word but also understand the context to correctly interpret homographs and grammatical blends. This can be particularly challenging if the model hasn’t been specifically trained to handle these complexities.
+    
+
+Addressing these challenges would require strategies like collecting more high-quality, parallel, code-switched data, adapting models to handle code-switching, and developing techniques to handle cross-lingual homographs and grammatical blends. This is an active area of research in NLP.

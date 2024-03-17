@@ -1,0 +1,10 @@
+There are several machine learning models that can be used for intra-word processing:
+
+1. [**CORDIF (COmplex woRD identification with Intra-word Features)**: This model uses 19 intra-word features to classify a word as simple or complex](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_26)[1](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_26). [It’s particularly useful for identifying complex words, and it has been used in text simplification tasks](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_26)[1](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_26).
+    
+2. [**Hierarchical Pre-trained Language Model**: This model uses a shallow Transformer architecture in its intra-word module to learn word representations from their characters](https://link.springer.com/chapter/10.1007/978-981-13-1642-5_26)[2](https://aclanthology.org/2023.acl-long.200.pdf). [It also includes a deep inter-word Transformer module that contextualizes each word representation by attending to the entire word sequence](https://aclanthology.org/2023.acl-long.200.pdf)[2](https://aclanthology.org/2023.acl-long.200.pdf).
+    
+3. [**Word Embedding Models**: These models represent words in a high-dimensional space where the semantic similarity between words corresponds to their spatial proximity](https://link.springer.com/article/10.1007/s10462-023-10419-1)[3](https://link.springer.com/article/10.1007/s10462-023-10419-1). [They can capture intra-word features and are widely used in various Natural Language Processing (NLP) tasks](https://www.deeplearning.ai/resources/natural-language-processing/)[4](https://www.deeplearning.ai/resources/natural-language-processing/)[3](https://link.springer.com/article/10.1007/s10462-023-10419-1).
+    
+
+Please note that the choice of model can depend on the specific requirements of your task. It’s important to consider factors such as the complexity of the task, the availability of training data, and the computational resources at your disposal.

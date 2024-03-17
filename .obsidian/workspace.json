@@ -44,34 +44,25 @@
               "state": {
                 "file": "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
                 "viewState": {
-                  "x": 1930.3868839208271,
-                  "y": -666.792015529458,
-                  "zoom": 0.5993774730401733
+                  "x": 4440,
+                  "y": 1940,
+                  "zoom": 0
                 }
               }
             }
           },
           {
-            "id": "59033ef90f226112",
+            "id": "d282e8359cd51aa3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Recent studies show that smaller models, trained and fine-tuned on bespoke datasets, may outperform multilingual LLMs in machine translation1..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0fb2eafe5e4481f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2️⃣ Collections/AAA_Concepts/multilingual neural machine translation deal weakly with code-switch input.md",
-                "mode": "source",
-                "source": false
+                "file": "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
+                "viewState": {
+                  "x": 628.5822104886724,
+                  "y": 4419.354977379078,
+                  "zoom": -1.6748812368435992
+                }
               }
             }
           }
@@ -228,10 +219,26 @@
   },
   "active": "04fd935133e5db4f",
   "lastOpenFiles": [
+    "Pasted image 20240227160222.png",
+    "Pasted image 20240227122030.png",
+    "Ori SegRNN.md",
     "2️⃣ Collections/NLP in CS/NLP in CS.canvas",
+    "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
     "2️⃣ Collections/Cross-lingual Priming/Cross-lingual Priming Effect.canvas",
-    "Recent studies show that smaller models, trained and fine-tuned on bespoke datasets, may outperform multilingual LLMs in machine translation1..md",
     "2️⃣ Collections/AAA_Concepts/multilingual neural machine translation deal weakly with code-switch input.md",
+    "Recent studies show that smaller models, trained and fine-tuned on bespoke datasets, may outperform multilingual LLMs in machine translation1..md",
+    "Untitled 1.md",
+    "Problems.md",
+    "Precise for translation OSO~.md",
+    "more modelssss.md",
+    "Precise solutions-3个 好多 试验一下.md",
+    "Precise solution-Segmented RNN.md",
+    "Untitled.md",
+    "Word Segmentation.md",
+    "Text-Segmentation.md",
+    "2️⃣ Collections/Code-switching/Multi-model 应该不行的.md",
+    "2️⃣ Collections/Code-switching/The function working detail.md",
+    "2️⃣ Collections/Code-switching/CLH Possible Method.md",
     "2️⃣ Collections/AAA_Concepts/monolingual-model-break-down-on-code-switched-input.md",
     "2️⃣ Collections/AAA_Concepts/morphological-code-switching.md",
     "2️⃣ Collections/AAA_Concepts/transformer cannot always encode positional information due to its non-recurrent characteristics.md",
@@ -244,28 +251,14 @@
     "Excalidraw/Drawing 2024-02-26 05.18.22.excalidraw.md",
     "Excalidraw",
     "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023b/nguyenCodeswitchingInputMachine2023b.md",
-    "2️⃣ Collections/Code-switching/Code-switching concept.canvas",
     "1️⃣ Primary Sources/nguyenCodeswitchingInputMachine2023b",
     "1️⃣ Primary Sources/songSwitchGLATMultilingualParallel2022/songSwitchGLATMultilingualParallel2022.md",
     "1️⃣ Primary Sources/songSwitchGLATMultilingualParallel2022",
-    "2️⃣ Collections/AAA_Concepts/code-switching requires a large amount of parallel corpus and a robust language identification module..md",
-    "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022/jadhavCodeMixedHinglishEnglish2022.md",
-    "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022a/jadhavCodeMixedHinglishEnglish2022a.md",
     "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022a",
     "1️⃣ Primary Sources/jadhavCodeMixedHinglishEnglish2022",
-    "1️⃣ Primary Sources/CodeMixedHinglishEnglish/CodeMixedHinglishEnglish.md",
     "1️⃣ Primary Sources/CodeMixedHinglishEnglish",
-    "1️⃣ Primary Sources/xuCanYouTraducir2021/xuCanYouTraducir2021.md",
     "1️⃣ Primary Sources/xuCanYouTraducir2021",
-    "1️⃣ Primary Sources/manghatMalayalamEnglishCodeSwitchedGrapheme2020/manghatMalayalamEnglishCodeSwitchedGrapheme2020.md",
-    "1️⃣ Primary Sources/sternerTongueSwitcherFineGrainedIdentification2023a/sternerTongueSwitcherFineGrainedIdentification2023a.md",
     "1️⃣ Primary Sources/sternerTongueSwitcherFineGrainedIdentification2023a",
-    "1️⃣ Primary Sources/pop00188/pop00188.md",
-    "1️⃣ Primary Sources/sternerTongueSwitcherFineGrainedIdentification2023/sternerTongueSwitcherFineGrainedIdentification2023.md",
-    "Ideation/1 Searching Process.md",
-    "Ideation/active learning.md",
-    "2️⃣ Collections/Cross-lingual Priming/咋没解决2.md",
-    "2️⃣ Collections/Cross-lingual Priming/纯人体实验.md",
     "2️⃣ Collections/Concept Maps.canvas",
     "2️⃣ Collections/Thesis Concept.canvas",
     "3️⃣ Thoughts/Untitled.canvas",
@@ -281,7 +274,6 @@
     "__Media/Pasted image 20221214131115.png",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
     "__Media/Pasted image 20221214125814.png",
-    "__Media/Pasted image 20221214124807.png",
-    "__Media/Pasted image 20221214123958.png"
+    "__Media/Pasted image 20221214124807.png"
   ]
 }
